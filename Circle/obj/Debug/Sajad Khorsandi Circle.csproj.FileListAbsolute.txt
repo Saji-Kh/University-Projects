@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Sajad Khorsandi Circle\Sajad Khorsandi Circle\bin\Debug\Sajad Khorsandi Circle.exe.config
+C:\Users\asus\source\repos\Sajad Khorsandi Circle\Sajad Khorsandi Circle\bin\Debug\Sajad Khorsandi Circle.exe
+C:\Users\asus\source\repos\Sajad Khorsandi Circle\Sajad Khorsandi Circle\bin\Debug\Sajad Khorsandi Circle.pdb
+C:\Users\asus\source\repos\Sajad Khorsandi Circle\Sajad Khorsandi Circle\obj\Debug\Sajad Khorsandi Circle.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Sajad Khorsandi Circle\Sajad Khorsandi Circle\obj\Debug\Sajad Khorsandi Circle.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Sajad Khorsandi Circle\Sajad Khorsandi Circle\obj\Debug\Sajad Khorsandi Circle.exe
+C:\Users\asus\source\repos\Sajad Khorsandi Circle\Sajad Khorsandi Circle\obj\Debug\Sajad Khorsandi Circle.pdb
