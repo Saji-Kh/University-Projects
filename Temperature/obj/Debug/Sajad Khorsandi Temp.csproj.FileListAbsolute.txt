@@ -1,0 +1,8 @@
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\bin\Debug\Sajad Khorsandi Temp.exe.config
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\bin\Debug\Sajad Khorsandi Temp.exe
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\bin\Debug\Sajad Khorsandi Temp.pdb
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\obj\Debug\Sajad Khorsandi Temp.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\obj\Debug\Sajad Khorsandi Temp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\obj\Debug\Sajad Khorsandi Temp.exe
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\obj\Debug\Sajad Khorsandi Temp.pdb
+C:\Users\asus\source\repos\Sajad Khorsandi Temp\Sajad Khorsandi Temp\obj\Debug\Sajad Khorsandi Temp.exe.config
