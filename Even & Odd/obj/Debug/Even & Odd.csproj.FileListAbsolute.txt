@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\Even & Odd.exe.config
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\Even & Odd.exe
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\bin\Debug\Even & Odd.pdb
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\Even & Odd.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\Even & Odd.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\Even & Odd.exe
+C:\Users\asus\source\repos\Even & Odd\Even & Odd\obj\Debug\Even & Odd.pdb
