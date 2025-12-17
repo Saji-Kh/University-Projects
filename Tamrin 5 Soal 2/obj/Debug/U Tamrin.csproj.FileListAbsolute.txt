@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\U Tamrin\U Tamrin\bin\Debug\U Tamrin.exe.config
+C:\Users\asus\source\repos\U Tamrin\U Tamrin\bin\Debug\U Tamrin.exe
+C:\Users\asus\source\repos\U Tamrin\U Tamrin\bin\Debug\U Tamrin.pdb
+C:\Users\asus\source\repos\U Tamrin\U Tamrin\obj\Debug\U Tamrin.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\U Tamrin\U Tamrin\obj\Debug\U Tamrin.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\U Tamrin\U Tamrin\obj\Debug\U Tamrin.exe
+C:\Users\asus\source\repos\U Tamrin\U Tamrin\obj\Debug\U Tamrin.pdb
